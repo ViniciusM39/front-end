@@ -1,0 +1,61 @@
+<!-- para criar o corpo do arquivo automaticamente usar o ! (primeira opção emmet) -->
+
+<!DOCTYPE html> <!--indica a versao do html, nesse caso o HTML5-->
+<html lang="pt-br"> <!--definir o idioma do site-->
+<head> <!-- configuraçoes do site-->
+    <meta charset="UTF-8"> <!-- acentuação padrão caracteres-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title> <!-- procurar como colocar o favicon-->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+    <div class="teste"</div>
+  
+    <h2>FEET              </h2>
+    <hr>
+    <h3>Promoções</h3>
+    <h4>*sugeridos*</h4>
+    <br>
+    <h1></h1>
+    oie
+    <br>
+    <br>
+    <h5>COLEGIO NOME AQUI</h5>
+
+    <!-- h1, h2, h3 ... são titulos não significa letra grande.
+    o tamanho da letra, fonte cor e etc são responsabilidade do CSS-->
+
+    <p>meu primeiro documento html</p>
+    <p>meu segundo parágrafo</p>
+    <h1>vamos de novo aos titulos</h1>
+    <div class="container">
+    estou na div maior
+        <div class="container2">
+        oie estou aqui
+    </div>
+    <div>ois</div>
+    </div>
+
+</body>
+</html>
+
+<style>
+    h5{
+        background-color: azure;
+        text-align: center;
+    }
+    h1{
+        background-color: #c3e;
+    }
+
+    .container{
+        background-color: blueviolet;
+    }
+
+    .container2{
+        background-color: blue;
+    }
+
+
+
+</style>
